@@ -1,6 +1,6 @@
 # Loan-Default-Analysis-Dashboard
 
-### Dashboard Link: [Insert Your Power BI Report Link Here]
+### Dashboard Link: https://app.powerbi.com/links/_lCFa3oBfH?ctid=3ad87f0e-1f93-41bd-94f4-82c37d971c88&pbi_source=linkShare
 
 ## Problem Statement
 
